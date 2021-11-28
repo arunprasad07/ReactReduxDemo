@@ -1,0 +1,3 @@
+Opened folder in VS code
+ran = npm install 
+ran = npm install redux react-redux
